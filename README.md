@@ -1,6 +1,6 @@
 # C programs
 
-> **This Repository contains Basic C programs which are Beginner Friendly.**
+> **This Repository contains Basic C programs which are from helpful for beginners to C programming. It includes programs from Basic level to Inter-mediate Level.**
 
 ## Cycle 1
 
